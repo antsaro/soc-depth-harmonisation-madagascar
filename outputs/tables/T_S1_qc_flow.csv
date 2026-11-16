@@ -1,0 +1,9 @@
+role,QC,n
+calibration,ok,748
+mangrove_paired,implausible_ratio_gt10,45
+mangrove_paired,impossible_SOC100_lt_SOC30,31
+mangrove_paired,ok,655
+paired_excluded,SOC100_equals_SOC30,8
+paired_excluded,anomalous_source,31
+paired_excluded,impossible_SOC100_lt_SOC30,2
+target,not_applicable,2664

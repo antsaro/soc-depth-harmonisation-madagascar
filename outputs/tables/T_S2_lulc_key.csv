@@ -1,0 +1,23 @@
+LULC_field,LULC_detail,LU,n_total,n_paired
+Agroecosystems,Agroforestry systems,AGroF,1,0
+Agroecosystems,Agroforestry systems,AgroF,203,24
+Agroecosystems,Agroforestry systems,Agroforesterie,16,0
+Agroecosystems,Croplands,Crop,369,13
+Agroecosystems,Croplands,Cropland,81,0
+Agroecosystems,Croplands,Culture,4,0
+Agroecosystems,Fallows,Jachere,4,0
+Agroecosystems,Fallows,Shrub fallow,22,22
+Agroecosystems,Fallows,Tree fallow,25,25
+Agroecosystems,Rice fields,Rice,494,13
+Forests and tree plantations,Forests,Closed Canopy,22,22
+Forests and tree plantations,Forests,Forest,266,179
+Forests and tree plantations,Tree plantations,Pine,7,7
+Forests and tree plantations,Tree plantations,Reforestation,60,60
+Grasslands and degraded lands,Degraded lands,Bare,4,0
+Grasslands and degraded lands,Degraded lands,Tany Maty,22,22
+Grasslands and degraded lands,Degraded lands,Tany maty,1,1
+Grasslands and degraded lands,Grasslands,Grassland,366,291
+Grasslands and degraded lands,Grasslands,Pseudo-steppe,3,3
+Mangroves,Mangroves,Mangroves,731,731
+Shrublands,Shrublands,Shrubland,99,76
+Undetermined,Undetermined,undetermined,1384,31
